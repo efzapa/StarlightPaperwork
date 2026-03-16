@@ -1,0 +1,41 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3]   [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█[color=#0000]░░[/color] █[color=#0000]░[/color]▀[color=#0000]░[/color]█ █[color=#0000]░░[/color]█[/color][bolditalic]   [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀[color=#0000][color=#0000]░░[/color]░[/color]▀ ▀▀▀[color=#0000]░[/color][/color]   [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+
+[bold]                   [head=2][color=#1b67a5]Request For Promotion Form[/bold][/color][/head]
+
+[italic]This document serves as a promotion notice used by Heads of staff for employees of their department. The employee stated in this document is to be evaluated for a rise into a new position fitting their abilities.[/italic]
+
+[italic]*Note* Captain may not hire any staff to a NanoTrasen Personnel position.[/italic]
+[bolditalic]**Note** Permission from Central Command is required for Captain, Head of Security, Head of Personnel
+[/bolditalic]
+[bold]Head of Staff:[/bold] YOUR NAME
+[bold]Department:[/bold] YOUR DEPARTMENT
+
+[bold]Promoted Employee:[/bold] THEIR NAME
+[bold]Promoted from position:[/bold] THEIR JOB
+
+[bold]Reason Why:[/bold]
+(  ) - Staffing issues requiring reshuffle
+(  ) - Higher skill set / Shown competency
+(  ) - Vacant position
+(  ) - Asked for new position
+(  ) - Standard SOP if missing Head of department (Captain required)
+
+[bold]Additional comments:[/bold] [italic](Optional)[/italic]
+YOUR COMMENTS HERE
+
+[bold]Was the candidate aware of the promotion request beforehand?[/bold]
+( ) [color=#17ff00][bold]Yes[/bold][/color]  |  ( ) [color=#c10000][bold]No[/bold][/color]
+
+[bold]Stamps Required:[/bold]
+[bullet] [color=#1b67a5][bold]Head of Department[/bold][/color] [italic](Issuing the promotion notice)[/italic]
+[bullet][bold][color=#1b67a5] Head of Personnel[/color][/bold]
+[bullet][color=#DFBC00][bold] Captain[/bold][/color] [italic](If applicable, or HoP not available)[/italic]
+[bullet][color=#098c00][bold] Central Command[/bold][/color] [italic](If position is for Captain, HoS, HoP)[/italic]
+
+[head=1]────────────────────[/head]
+                                              [italic]Stamps[/italic]
+

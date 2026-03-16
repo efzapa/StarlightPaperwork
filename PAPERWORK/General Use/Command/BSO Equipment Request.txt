@@ -1,0 +1,25 @@
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#134975]█▄[color=#0000]░░[/color]█ ▀▀█▀▀[/color]  [head=3][color=#1b67a5]NANOTRASEN CORPORATION[/color][/head]
+[color=#134975]█▀█▄█ [color=#0000]░░[/color]█[color=#0000]░░[/color][/color][bolditalic][color=#1b67a5]  Together, we change worlds...[/color][/bolditalic]
+[color=#134975]█[color=#0000]░░[/color]▀█ [color=#0000]░░[/color]█[color=#0000]░░[/color][/color]   [color=#aaaaaa][italic]OFFICIAL NANOTRASEN DOCUMENT[/italic][/color]
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#1f75bb][bold]              OFFICER "BLUESHIELD" EQUIPMENT REQUEST[/bold][/color]
+
+[bold]To: [color=#009100]Central Command[/color][/bold]
+
+[bold]Requested Equipment:[/bold]
+[bullet] Blueshield Officer equipment locker with Blueshield equipment
+[bullet] Blueshield Officer hardsuit unit with Blueshield officer hardsuit
+
+[bold]Additional request(s):[/bold]
+[bullet]
+[bullet]
+
+[bold]Purpose of this request:[/bold]
+[italic]This request is issued to Central Command in order to officially allow the Officer "Blueshield" to perform their duty to the best of their abilities. As a physical representant of Nanotrasen, they agree to abide to their contract and consentium between Central Command and Nanotrasen.[/italic]
+
+[bold]STAMPS REQUIRED[/bold]
+[bullet] [bold][color=#134975]Nanotrasen Representative[/color][/bold]
+
+[head=1][bold]───────────────────[/bold][/head]
+                                            [italic]Stamps[/italic]

@@ -1,0 +1,22 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3]   [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█[color=#0000]░░[/color] █[color=#0000]░[/color]▀[color=#0000]░[/color]█ █[color=#0000]░░[/color]█[/color][bolditalic]   [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀[color=#0000][color=#0000]░░[/color]░[/color]▀ ▀▀▀[color=#0000]░[/color][/color]   [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+                              [center][color=#135285][bold]   RESIGNATION REQUEST[/bold][/color][/center] 
+   
+[bold]To: [color=#009100]Central Command[/color][/bold]
+
+[bold]Name:[/bold] YOUR NAME
+[bold]What position do you wish to resign from:[/bold] YOUR POSITION
+
+[bold]Explanation of your resignation request:[/bold]
+YOUR EXPLANATION HERE
+
+[italic]By sending this resignation paper, I understand that in the context that it is approved, I will be revoked of all my access and rights that were appointed to me with this position.
+
+If it is refused, I understand that I will keep my old position and continue my job as normal, without attempting to resign again from it in the near future.[/italic]
+
+[head=1]────────────────────[/head]
+                                                [italic]Stamps[/italic]
+

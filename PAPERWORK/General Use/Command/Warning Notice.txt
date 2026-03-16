@@ -1,0 +1,32 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3]   [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█[color=#0000]░░[/color] █[color=#0000]░[/color]▀[color=#0000]░[/color]█ █[color=#0000]░░[/color]█[/color][bolditalic]   [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀[color=#0000][color=#0000]░░[/color]░[/color]▀ ▀▀▀[color=#0000]░[/color][/color]   [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+                                     [bold]WARNING NOTICE[/bold]
+
+[italic]This document is an official Warning Notice issued to formally warn an individual of an issue they have created / encountered during their worktime. This serves as a final notice before demotion. If you are the target of this paper, consider changing your behaviour to better fit Central Command's and Nanotrasen's standards of work.[/italic]
+
+[bold]Warning issuer:[/bold] YOUR NAME
+[bold]Head of Department:[/bold] YOUR DEPARTMENT
+
+[bold]Warning issued to:[/bold] THEIR NAME
+[bold]Position:[/bold] THEIR JOB
+
+[bold]Issues registered by the Head of Department:[/bold]
+[bullet]
+[bullet]
+[bullet]
+
+[bold]Disciplinary actions taken (if any):[/bold]
+YOUR DISCIPLINARY ACTIONS HERE
+
+[bold]Additional Context:[/bold] [italic](Optionnal)[/italic]
+[mono]YOUR COMMENTS HERE[/mono]
+
+[bold]STAMPS REQUIRED:[/bold]
+[bullet] [color=#1b67a5][bold]Head of Department[/bold][/color] [italic](issuing the warning)[/italic]
+[bullet] [color=#134975][bold]Nanotrasen Representative[/bold][/color] [italic](if available)[/italic]
+[bullet] [color=#DFBC00][bold]Captain[/bold][/color] [italic](optionnal)[/italic]
+[head=1]────────────────────[/head]
+                                           [italic]Stamps[/italic]
